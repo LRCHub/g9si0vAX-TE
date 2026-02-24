@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ありきたりな女",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-02-24T09:42:17.560003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ありきたりな女",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/01_ありきたりな女_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ありきたりな女",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/02_ありきたりな女_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ありきたりな女",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/03_ありきたりな女_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ありきたりな女",
+      "artist": "Ringo Sheena",
+      "has_synced": false,
+      "path": "select/04_ありきたりな女_Ringo_Sheena.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありきたりな女",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_ありきたりな女_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ありきたりな女",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_ありきたりな女_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ありきたりな女",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_ありきたりな女_椎名_林檎.txt"
+    }
+  ]
+}
